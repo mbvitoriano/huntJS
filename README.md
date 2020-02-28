@@ -20,7 +20,7 @@ Here's a gif showing the main functionaliies of the app:
 ## Made using
 
 * [React](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-* [React-Native] (https://github.com/facebook/react-native) - A framework for building native apps with React.
+* [React Native](https://github.com/facebook/react-native) - A framework for building native apps with React.
 * [Axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 * [API Rocket Seat](http://rocketseat-node.herokuapp.com/api/products) - List of entries to the App
 

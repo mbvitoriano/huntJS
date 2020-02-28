@@ -16,6 +16,7 @@ This app was made following a course given by [Rocket Seat](https://rocketseat.c
 ## Example
 
 Here's a gif showing the main functionaliies of the app:
+
 ![Alt Text](example.gif)
 
 

@@ -6,6 +6,8 @@ This app was made following a course given by [Rocket Seat](https://rocketseat.c
  The items on the API are paginated, so when the user reaches the end of the "page" the app loads the remainig items giving the user the feeling of an infinite scroll.
  
  In my project, i've used [my own API](https://github.com/mbvitoriano/node-api) created with [Node JS](https://github.com/nodejs/node), but to simplify i've used the Rocket Seat's API.
+
+ [Here is the main app code] (https://github.com/mbvitoriano/huntJS/tree/master/src/pages)
   
 
 
